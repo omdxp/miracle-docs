@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmiracle_docs=self.webpackChunkmiracle_docs||[]).push([[828],{4955:e=>{e.exports=JSON.parse('{"permalink":"/miracle-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
